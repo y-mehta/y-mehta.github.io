@@ -45,7 +45,6 @@ const CONFIG = {
     linkedin: '1yashm',
     twitter: 'YashCMehta',
     mastodon: '',
-    researchGate: 'Yash-Mehta-26',
     facebook: '',
     instagram: '',
     reddit: '',
@@ -61,7 +60,6 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'yash.mehta@owasp.org',
   },
   resume: {
     fileUrl:
@@ -78,99 +76,7 @@ const CONFIG = {
     'Security Automation',
     'Terraform'
   ],
-  experiences: [
-    {
-      company: 'Postman',
-      position: 'Senior Security Engineer',
-      from: 'April 2024',
-      to: 'Present',
-      companyLink: 'https://postman.com',
-    },
-    {
-      company: 'Postman',
-      position: 'Security Engineer II',
-      from: 'May 2022',
-      to: 'April 2024',
-      companyLink: 'https://postman.com',
-    },
-    {
-      company: 'Postman',
-      position: 'Security Engineer',
-      from: 'October 2020',
-      to: 'May 2022',
-      companyLink: 'https://postman.com',
-    },
-    {
-      company: 'Postman',
-      position: 'Security Engineer, Intern',
-      from: 'April 2020',
-      to: 'October 2020',
-      companyLink: 'https://postman.com',
-    },
-    {
-      company: 'Astra Security',
-      position: 'Web Security Intern',
-      from: 'May 2019',
-      to: 'July 2019',
-      companyLink: 'https://getastra.com',
-    },
-    {
-      company: 'Astra Security',
-      position: 'Web Security Intern',
-      from: 'May 2018',
-      to: 'July 2018',
-      companyLink: 'https://getastra.com',
-    },
-    {
-      company: 'Cyber Crime Cell, Gurugram Police',
-      position: 'Security Intern',
-      from: 'June 2017',
-      to: 'June 2017',
-      companyLink: '',
-    },
-    {
-      company: 'FreeCopy',
-      position: 'IT Consultant',
-      from: '2017',
-      to: '2018',
-      companyLink: '',
-    },
-  ],
-  certifications: [
-    {
-      name: 'AWS Certified Security – Specialty',
-      body: '',
-      year: 'May 2023',
-      link: 'https://www.credly.com/badges/c17ed6ae-0319-4e71-8f84-0a9164c00d36/linked_in_profile',
-    },
-        {
-      name: 'AWS Certified Solutions Architect - Associate',
-      body: '',
-      year: 'April 2022',
-      link: 'https://www.credly.com/badges/417bb726-4df1-4985-affa-60b8cd36bf67/public_url',
-    },
-            {
-      name: 'GIAC Web Application Penetration Tester (GWAPT)',
-      body: '',
-      year: 'August 2021',
-      link: '',
-    },
-    
-            {
-      name: 'CompTIA Cybersecurity Analyst (CySA+)',
-      body: '',
-      year: 'March 2019',
-      link: '',
-    },
-  ],
-  educations: [
-    {
-      institution: 'Ahmedabad University',
-      degree: 'BTech in Information & Communication Technology',
-      from: '2016',
-      to: '2020',
-    }
-  ],
+  
   publications: [
     
   ],
